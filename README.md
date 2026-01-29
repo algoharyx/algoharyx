@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mohamed Algohary (@algoharyx) 🚀
 
-<!--
-**algoharyx/algoharyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Node.js Enthusiast | Linux Ricer
 
-Here are some ideas to get you started:
+I am a Software Developer who believes in extreme efficiency and minimalism. My workflow is built on **Arch Linux**, customized with **Hyprland**, and driven by the speed of **Neovim**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+- **Back-End:** Node.js, Express, REST APIs
+- **Environment:** Arch Linux, Wayland, Hyprland
+- **Editor:** Neovim (built by hand)
+- **Tools:** Git, Docker, Shell Scripting
+
+---
+
+## 🎓 Currently Working On
+- ⚡ **NTI HireReady Program:** Intensive 4-month training in Open Source & Backend Architecture.
+- 🛠️ **System Ricing:** Constant optimization of my Arch Linux workflow.
+- 🌐 **Backend Projects:** Building scalable and maintainable Node.js applications.
+
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-algoharyx-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/algoharyx)
+[![Gravatar](https://img.shields.io/badge/Gravatar-algoharyx-darkgrey?style=for-the-badge&logo=gravatar)](https://gravatar.com/algoharyx)
+
+---
+
+> "My background in Accounting gives me a unique 'Audit-first' mindset: ensuring every line of code is necessary and every system is lean."
