@@ -9,7 +9,7 @@ I am a Software Developer who believes in extreme efficiency and minimalism. My 
 ## 🛠️ Tech Stack & Skills
 - **Back-End:** Node.js, Express, REST APIs
 - **Environment:** Arch Linux, Wayland, Hyprland
-- **Editor:** Neovim (built by hand)
+- **Editor:** Neovim (i buld it from zero )
 - **Tools:** Git, Docker, Shell Scripting
 
 ---
